@@ -1,0 +1,24 @@
+C:\Users\Renzo Diaz\Desktop\Correo Electronico\Correo Electronico\bin\Debug\Correo Electronico.exe.config
+C:\Users\Renzo Diaz\Desktop\Correo Electronico\Correo Electronico\bin\Debug\Correo Electronico.exe
+C:\Users\Renzo Diaz\Desktop\Correo Electronico\Correo Electronico\bin\Debug\Correo Electronico.pdb
+C:\Users\Renzo Diaz\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo Electronico.csprojResolveAssemblyReference.cache
+C:\Users\Renzo Diaz\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo_Electronico.Principal.resources
+C:\Users\Renzo Diaz\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo_Electronico.Properties.Resources.resources
+C:\Users\Renzo Diaz\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo Electronico.csproj.GenerateResource.Cache
+C:\Users\Renzo Diaz\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo Electronico.exe
+C:\Users\Renzo Diaz\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo Electronico.pdb
+C:\Users\Renzo Diaz\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo_Electronico.Login.resources
+C:\Users\Renzo Diaz\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo_Electronico.Registro.resources
+C:\Users\USER\Desktop\Correo Electronico\Correo Electronico\bin\Debug\Correo Electronico.exe.config
+C:\Users\USER\Desktop\Correo Electronico\Correo Electronico\bin\Debug\Correo Electronico.exe
+C:\Users\USER\Desktop\Correo Electronico\Correo Electronico\bin\Debug\Correo Electronico.pdb
+C:\Users\USER\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo Electronico.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo Electronico.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo_Electronico.Login.resources
+C:\Users\USER\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo_Electronico.Principal.resources
+C:\Users\USER\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo_Electronico.Properties.Resources.resources
+C:\Users\USER\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo_Electronico.Registro.resources
+C:\Users\USER\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo Electronico.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo Electronico.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo Electronico.exe
+C:\Users\USER\Desktop\Correo Electronico\Correo Electronico\obj\Debug\Correo Electronico.pdb
